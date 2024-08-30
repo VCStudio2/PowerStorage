@@ -1,0 +1,103 @@
+header {
+    background-color: royalblue;
+    height: 60px;
+    width: 100%;
+}
+
+main {
+    background-image: linear-gradient(top, royalblue, white);
+}
+body {
+    font-family: sans-serif;
+    width: 1280px;
+    height: 720px;
+    
+}
+
+.button1 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 60px;
+    margin: 10px;
+}
+
+.button2 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50px;
+    width: 60px;
+    margin: 10px;
+}
+
+.button3 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50px;
+    width: 60px;
+    margin: 10px;
+}
+
+nav {
+    display: flex;
+
+}
+
+.img1 {
+    
+    margin-top: 10px;
+    width: 411px;
+    height: 250px;
+    float: left;
+}
+
+.centerinfo {
+    display: flex;
+    width: 50px;
+}
+
+.plus {
+    float: left;
+}
+
+.button4 {
+    background-color: royalblue;
+    color: white;
+    border-radius: 15px;
+    padding: 5px;
+    width: 155px;
+    height: 50px;
+    font-size: 40px;
+    margin-top: 241px;
+}
+
+.button5 {
+    background-color: rgb(91, 200, 243);
+    color: white;
+    border-radius: 15px;
+    padding: 5px;
+    width: 155px;
+    height: 50px;
+    font-size: 40px;
+
+} 
+
+.block1{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.button4 {
+    background-color: royalblue;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+a {
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
