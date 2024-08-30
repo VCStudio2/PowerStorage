@@ -1,0 +1,196 @@
+header {
+    background-color: royalblue;
+    height: 60px;
+    width: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    width: 100%;
+    height: max-content;
+    
+}
+
+.button1 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 60px;
+    margin: 10px;
+}
+
+.button2 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 50px;
+    width: 60px;
+    margin: 10px;
+}
+
+
+nav {
+    display: flex;
+
+}
+
+.card1 {
+    width: 350px;
+    height: 300px;
+    background-color: royalblue;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.card1 h2 {
+    color: white;
+    margin-left: 50px;
+}
+
+.plus1 {
+    float: left;
+    margin-left: 10px;
+    color: white;
+    width: 150px;
+    border: 3px green dotted;
+    border-radius: 10px;
+}
+
+.minus1 {
+    color: white;
+    float: right;
+    margin-right: 10px;
+    width: 150px;
+    border: 3px red dotted;
+    border-radius: 10px;
+}
+
+.buybutton1 {
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 40px;
+    text-decoration: none;
+    padding-left: 115px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+.card2 {
+    width: 350px;
+    height: 300px;
+    background-color: royalblue;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.card2 h2 {
+    color: white;
+    margin-left: 50px;
+}
+
+.plus2 {
+    float: left;
+    margin-left: 10px;
+    color: white;
+    width: 150px;
+    border: 3px green dotted;
+    border-radius: 10px;
+}
+
+.minus2 {
+    color: white;
+    float: right;
+    margin-right: 10px;
+    width: 150px;
+    border: 3px red dotted;
+    border-radius: 10px;
+}
+
+.buybutton2 {
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 40px;
+    text-decoration: none;
+    padding-left: 115px;
+    color: white;
+}
+
+.card3 {
+    width: 350px;
+    height: 300px;
+    background-color: royalblue;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.card3 h2 {
+    color: white;
+    margin-left: 50px;
+}
+
+.plus3 {
+    float: left;
+    margin-left: 10px;
+    color: white;
+    width: 150px;
+    border: 3px green dotted;
+    border-radius: 10px;
+}
+
+.minus3 {
+    color: white;
+    float: right;
+    margin-right: 10px;
+    width: 150px;
+    border: 3px red dotted;
+    border-radius: 10px;
+}
+
+.buybutton3 {
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 40px;
+    text-decoration: none;
+    padding-left: 115px;
+    color: white;
+}
+
+.card4 {
+    width: 350px;
+    height: 300px;
+    background-color: royalblue;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.card4 h2 {
+    color: white;
+    margin-left: 50px;
+}
+
+.plus4 {
+    float: left;
+    margin-left: 10px;
+    color: white;
+    width: 150px;
+    border: 3px green dotted;
+    border-radius: 10px;
+}
+
+.buybutton4 {
+    border-radius: 30px;
+    padding: 5px;
+    font-size: 40px;
+    text-decoration: none;
+    padding-left: 115px;
+    color: white;
+}
+
+.cards {
+    justify-content: flex-end;
+}
