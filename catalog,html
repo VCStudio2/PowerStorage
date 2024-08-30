@@ -1,0 +1,73 @@
+<html>
+    <body>
+        <head>
+        <title>PowerStorage</title>
+        <link rel="stylesheet" href="style1.css">
+        </head>
+        <header>
+            <nav>
+                <a href="" class="button1">Головна</a>
+                <a href="" class="button2">Каталог</a>
+            </nav>
+        </header>
+        <main>
+            <div class="cards">
+                <div class="card1">
+                    <h2>Бесплатний аналог</h2>
+                    <div class="plus1">
+                        <p>Якісте підключення</p>
+                        <p>100GB Пам'яті</p>
+                        <p>Макс. онлайн 500</p>
+                    </div>
+                    <div class="minus1">
+                       <p>Немає захиста</p>
+                        <p>Нижча швидкість</p>
+                       <p>Немає гарантії</p>
+                    </div>
+                    <a href="" class="buybutton1">Купити</a>
+                </div>
+                <div class="card2">
+                    <h2>Стартовий пакет</h2>
+                    <div class="plus2">
+                        <p>Якісте підключення</p>
+                       <p>500GB Пам'яті</p>
+                        <p>Макс. онлайн 1000</p>
+                        <p>Захис від DDoS</p>
+                        <p>Конфіденційно</p>
+                    </div>
+                    <div class="minus2">
+                        <p>Середня швидкість</p>
+                      </div>
+                      <a href="" class="buybutton2">Купити</a>
+                </div>
+                <div class="card3">
+                    <h2>Баланс</h2>
+                    <div class="plus3">
+                        <p>Якісте підключення</p>
+                        <p>1TB Пам'яті</p>
+                        <p>Безлім. онлайн</p>
+                        <p>Захис від DDoS</p>
+                        <p>Конфіденційно</p>
+                    </div>
+                    <div class="minus3">
+                        <p>Середня швидкість</p>
+                      </div>
+                      <a href="" class="buybutton3">Купити</a>
+                </div>
+                <div class="card4">
+                    <h2>Індустріальний пакет</h2>
+                    <div class="plus4">
+                        <p>Якісте підключення</p>
+                        <p>50TB Пам'яті</p>
+                        <p>Безлім. онлайн</p>
+                        <p>Захис від DDoS</p>
+                        <p>Найвища швидкість</p>
+                    </div>
+                      <a href="" class="buybutton4">Купити</a>
+                </div>
+            </div>        
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
